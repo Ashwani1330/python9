@@ -1,0 +1,1 @@
+t1=eval(input("Enter the tuple elemnts : " ))_max = 0for i in range(len(t1)):      elem = int(t1[i])      if elem > _max:      	_max = elemc=t1.count(_max)print("\n Maximum number in tuple :", _max, " is entered ", c,"many times")

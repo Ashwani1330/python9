@@ -1,0 +1,1 @@
+t1=eval(input("Enter the tuple elemnts : " ))l=int(len(t1))asc=t1[0]for i in range(int(l/2)):	if asc>t1[i]:		asc=t1[i]						print("ok")	

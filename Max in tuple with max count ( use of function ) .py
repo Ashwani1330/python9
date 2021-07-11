@@ -1,0 +1,1 @@
+t1=eval(input("Enter the tuple elemnts : " ))_max=max(t1)_count=t1.count(_max)print("Max number is ",_max,"appering",_count,"number of times.")
