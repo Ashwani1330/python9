@@ -1,8 +1,8 @@
 #Program to calculate factorial using user defined function calcFact()
-#number num as an arguement 
+#number num as an arguement
 #Requirements are listed below:
     #1. The function should accept one integer arguement from the user.
-    #2. Calulate factorial. 
+    #2. Calulate factorial.
     #3. Display factorial.
 
 #function definition
@@ -16,7 +16,4 @@ def calcFact(num):
 num= int(input("Enter the number: "))
 
 #function call
-calcFact(num)               
-               
-                    
- 
+calcFact(num)
